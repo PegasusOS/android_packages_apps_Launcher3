@@ -39,7 +39,7 @@
             android:textAlignment="center" />
     </LinearLayout>
 
-    <LinearLayout
+    <!--<LinearLayout
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
@@ -57,5 +57,5 @@
             android:layout_margin="8dp"
             android:text="@string/trust_apps_info_hidden"
             android:textAlignment="center" />
-    </LinearLayout>
+    </LinearLayout>-->
 </LinearLayout>
